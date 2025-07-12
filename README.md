@@ -3,7 +3,7 @@
 This is a simple terminal-based quiz game made in the C programming language.
 
 ## 📋 Features:
-- 5 programming-related multiple-choice questions
+- 10 programming-related multiple-choice questions
 - Score counter
 - Supports both uppercase and lowercase answers
 - Final score display
